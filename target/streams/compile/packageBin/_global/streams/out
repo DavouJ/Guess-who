@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/davou.jobbi/Code/Guess-who/target/scala-2.13/guess-who_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Guess-who/target/scala-2.13/classes/main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Guess-who/target/scala-2.13/classes/main/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Guess-who/target/scala-2.13/classes/main/Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Guess-who/target/scala-2.13/classes/main/Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Game$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Guess-who/target/scala-2.13/classes/main/Game$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Guess-who/target/scala-2.13/classes/main/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Guess-who/target/scala-2.13/classes/main/Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Guess-who/target/scala-2.13/classes/main/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/GameBoard.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/davou.jobbi/Code/Guess-who/target/scala-2.13/classes/main/GameBoard.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
